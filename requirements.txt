@@ -1,0 +1,13 @@
+pinecone
+protoc_gen_openapiv2
+sentence-transformers
+langchain_community
+langchain
+fastapi
+supabase==2.3.5
+uvicorn
+mistralai
+psycopg2-binary
+grpcio
+groq
+openai
